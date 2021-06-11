@@ -1,0 +1,14 @@
+{
+    "name": "AplicacionMundial-Front-End",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "sebas",
+    "contributors": [],
+    "dependencies": {}
+}
